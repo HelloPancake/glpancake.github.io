@@ -1,0 +1,56 @@
+.img-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px; 
+    margin: 20px 0;
+    width: 100%;
+    flex-wrap: wrap;
+     
+}
+
+.tech-skill-item {
+    width: 25%;
+    margin-bottom: 50px;
+}
+
+.tech-skill-item h4 {
+    font-weight: 600;
+    font-size:0.7em;
+}
+
+
+
+
+.tech-skill-img{
+    height: 50px;
+    
+   
+}
+
+strong {
+  font-weight: bold;
+  font-size: 0.8em;
+
+}
+
+.icon-container{
+    display: inline-block;
+    position: relative;
+    justify-content: space-between;
+}
+
+.project-title{
+    height: 60px;
+}
+
+
+
+.tech {
+    height: 120px;
+}
+
+.desc {
+    height: 150px;
+}
